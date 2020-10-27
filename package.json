@@ -1,0 +1,17 @@
+{
+  "name": "FirebaseStarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase": "^7.24.0",
+    "firebase-admin": "^9.3.0"
+  }
+}
